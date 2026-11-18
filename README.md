@@ -5,7 +5,7 @@ This suite accompanies *Summable Losses Under Renormalization and Gate G4 in Lat
 ## Repository and DOI
 
 - [GitHub repository](https://github.com/teknoquants/SUMMABLE-LOSSES-UNDER-RENORMALIZATION-AND-GATE-4-IN-LATTICE-YANG-MILLS)
-- [DOI 10.5281/zenodo.24341493](https://doi.org/10.5281/zenodo.24341493)
+- [DOI 10.5281/zenodo.24348403](https://doi.org/10.5281/zenodo.24348403)
 
 ## Run the checks
 
